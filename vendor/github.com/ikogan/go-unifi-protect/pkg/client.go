@@ -9,7 +9,7 @@ import (
 	"github.com/merlindorin/go-shared/pkg/net/do"
 	"github.com/merlindorin/go-shared/pkg/net/rest"
 	"github.com/merlindorin/go-shared/pkg/net/ws"
-	v1 "github.com/merlindorin/go-unifi-protect/api/v1"
+	v1 "github.com/ikogan/go-unifi-protect/api/v1"
 	"go.uber.org/zap"
 )
 

@@ -5,7 +5,7 @@ import (
 
 	"github.com/golang-jwt/jwt/v5"
 	"github.com/merlindorin/go-shared/pkg/net/do"
-	v1 "github.com/merlindorin/go-unifi-protect/api/v1"
+	v1 "github.com/ikogan/go-unifi-protect/api/v1"
 
 	"net/http"
 	"net/url"

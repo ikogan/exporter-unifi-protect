@@ -22,7 +22,7 @@ import (
 	"github.com/merlindorin/go-shared/pkg/cmd"
 	u "github.com/merlindorin/go-shared/pkg/net/url"
 	"github.com/merlindorin/go-shared/pkg/zapadapter"
-	"github.com/merlindorin/go-unifi-protect/pkg"
+	"github.com/ikogan/go-unifi-protect/pkg"
 )
 
 type Serve struct {

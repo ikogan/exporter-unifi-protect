@@ -7,8 +7,8 @@ toolchain go1.23.1
 require (
 	github.com/alecthomas/kong v0.9.0
 	github.com/alecthomas/kong-yaml v0.2.0
+	github.com/ikogan/go-unifi-protect v0.0.0-20260201054244-5d5bbcfb55d6
 	github.com/merlindorin/go-shared v0.0.0-20241121220528-f67d70922277
-	github.com/merlindorin/go-unifi-protect v0.0.0-20241122153140-3375c6b4fa09
 	github.com/prometheus/client_golang v1.19.1
 	github.com/prometheus/exporter-toolkit v0.11.0
 	go.uber.org/zap v1.27.0
